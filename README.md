@@ -74,6 +74,8 @@ cloudflared tunnel --url http://localhost:8501 --no-autoupdate
 ```
 
 ---
+## Architecture
+![Snap2Snack recipe workflow](./snap2snack_workflow_neon.svg)
 
 ## 🧠 How It Works
 
